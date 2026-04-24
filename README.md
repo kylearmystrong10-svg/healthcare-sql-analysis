@@ -75,15 +75,29 @@ Overall, the analysis indicates that lifestyle behaviors have a more significant
 ![Dashboard Preview](das.png.png)
 
 ---
-This dashboard analyzes how stress levels relate to key health metrics, including blood pressure, glucose, and BMI.
 
-Blood pressure shows the strongest and most consistent relationship with stress, increasing steadily from low to high stress groups. This pattern suggests a direct and meaningful impact of stress on cardiovascular health.
+This dashboard examines the relationship between stress levels and key health indicators, including blood pressure, glucose, and BMI.
 
-Glucose levels also increase as stress rises, and while the absolute change is larger than that of blood pressure, the effect is less significant relative to the broader range of glucose values. This indicates a weaker overall relationship despite the noticeable upward trend.
+Blood pressure demonstrates the strongest and most consistent relationship with stress, increasing steadily across all stress groups. This clear upward trend suggests a direct and meaningful impact of stress on cardiovascular health.
 
-BMI shows minimal variation across stress levels, suggesting that stress does not directly influence body composition and may instead affect it indirectly through lifestyle behaviors.
+Glucose levels also rise with increasing stress and show a larger absolute change. However, when considered relative to the broader range of glucose values, the impact is less pronounced, indicating a weaker overall relationship compared to blood pressure.
 
-Overall, the analysis indicates that stress has the most pronounced impact on blood pressure, a moderate influence on glucose, and little to no direct effect on BMI.
+BMI remains relatively stable across stress levels, showing minimal variation and suggesting that stress does not directly influence body composition, but may instead affect it indirectly through lifestyle factors.
+
+Overall, the findings highlight blood pressure as the most sensitive indicator of stress, with glucose showing a moderate response and BMI demonstrating little to no direct association.
+
+##Dashboard #4
+![Dashboard Preview](da.png.png)
+
+---
+
+This dashboard analyzes the impact of key lifestyle factors on cholesterol and triglyceride levels, including physical activity, diet, smoking, and alcohol consumption.
+
+Physical activity and diet show the most significant impact, with both associated with substantial decreases in cholesterol and triglyceride levels. These findings suggest that improvements in diet quality and increased physical activity are strongly linked to better cardiovascular health outcomes.
+
+In contrast, smoking and alcohol consumption show slight increases in both cholesterol and triglycerides, indicating a negative but less pronounced effect compared to lifestyle improvements.
+
+Overall, the analysis highlights that positive lifestyle behaviors, particularly diet and physical activity, have a greater influence on improving cholesterol and triglyceride levels than the negative effects introduced by smoking and alcohol.
 
 ## File Structure
 - `analysis.sql` → Full SQL workflow (data cleaning + analysis)
