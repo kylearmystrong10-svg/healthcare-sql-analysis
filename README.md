@@ -48,13 +48,19 @@ A Tableau dashboard was created to visualize the relationship between stress and
 
 ![Dashboard Preview](dashboard.png.png)
 
+---
+
 This dashboard analyzes key lifestyle factors influencing stress levels, including sleep, smoking, and alcohol consumption.
 
 Sleep duration shows the strongest relationship with stress levels, with individuals reporting lower sleep experiencing significantly higher average stress. Smoking is also associated with increased stress, though the difference is smaller in comparison. Alcohol consumption shows minimal variation between groups, suggesting a weaker relationship with stress levels.
 
 Overall, sleep appears to be the most impactful factor among those analyzed, indicating its importance in managing stress.
 
+##Dashboard #2
+
 ![Dashboard Preview](dashb.png.png)
+
+---
 
 This dashboard examines the factors influencing HbA1c levels, comparing lifestyle behaviors such as diet, physical activity, and BMI with genetic factors like family history.
 
@@ -63,6 +69,10 @@ Diet quality shows a strong relationship with HbA1c levels, with poorer diets as
 Physical activity shows an inverse relationship, where higher activity levels are associated with lower HbA1c, indicating its protective effect on metabolic health. In contrast, family history shows only a small difference between groups, suggesting a weaker influence compared to lifestyle factors.
 
 Overall, the analysis indicates that lifestyle behaviors have a more significant impact on HbA1c levels than genetic factors, highlighting the importance of diet and physical activity in managing long-term health outcomes.
+
+#Dashboard #3
+
+![Dashboard Preview](das.png.png)
 
 ---
 
