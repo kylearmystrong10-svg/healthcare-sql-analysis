@@ -70,11 +70,20 @@ Physical activity shows an inverse relationship, where higher activity levels ar
 
 Overall, the analysis indicates that lifestyle behaviors have a more significant impact on HbA1c levels than genetic factors, highlighting the importance of diet and physical activity in managing long-term health outcomes.
 
-#Dashboard #3
+##Dashboard #3
 
 ![Dashboard Preview](das.png.png)
 
 ---
+This dashboard analyzes how stress levels relate to key health metrics, including blood pressure, glucose, and BMI.
+
+Blood pressure shows the strongest and most consistent relationship with stress, increasing steadily from low to high stress groups. This pattern suggests a direct and meaningful impact of stress on cardiovascular health.
+
+Glucose levels also increase as stress rises, and while the absolute change is larger than that of blood pressure, the effect is less significant relative to the broader range of glucose values. This indicates a weaker overall relationship despite the noticeable upward trend.
+
+BMI shows minimal variation across stress levels, suggesting that stress does not directly influence body composition and may instead affect it indirectly through lifestyle behaviors.
+
+Overall, the analysis indicates that stress has the most pronounced impact on blood pressure, a moderate influence on glucose, and little to no direct effect on BMI.
 
 ## File Structure
 - `analysis.sql` → Full SQL workflow (data cleaning + analysis)
