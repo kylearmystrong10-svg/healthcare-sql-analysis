@@ -48,6 +48,14 @@ A Tableau dashboard was created to visualize the relationship between stress and
 
 ![Dashboard Preview](dashboard.png.png)
 
+This dashboard analyzes key lifestyle factors influencing stress levels, including sleep, smoking, and alcohol consumption.
+
+Sleep duration shows the strongest relationship with stress levels, with individuals reporting lower sleep experiencing significantly higher average stress. Smoking is also associated with increased stress, though the difference is smaller in comparison. Alcohol consumption shows minimal variation between groups, suggesting a weaker relationship with stress levels.
+
+Overall, sleep appears to be the most impactful factor among those analyzed, indicating its importance in managing stress.
+
+![Dashboard Preview](dashboard.png.png)
+
 ---
 
 ## File Structure
