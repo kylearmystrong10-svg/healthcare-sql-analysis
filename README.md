@@ -46,7 +46,7 @@ The goal is to uncover relationships between lifestyle behaviors and important h
 ## Dashboard
 A Tableau dashboard was created to visualize the relationship between stress and key health metrics.
 
--- Paste your Tableau Public link here --
+![Dashboard Preview](dashboard.png)
 
 ---
 
